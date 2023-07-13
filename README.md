@@ -1,6 +1,6 @@
 # PhotoTagger
 
-![Uploading PhotoTagger.gif…]()
+![PhotoTagger](https://github.com/RedisMadani/PhotoTagger/assets/136177376/e4620a66-1214-4866-8108-98d064e0b18e)
 
 Welcome to PhotoTagger! This Swift app demonstrates the usage of Alamofire, a popular networking library. With PhotoTagger, you can select an image from your device and automatically retrieve tag and color pixel information using the powerful image analysis capabilities provided by **[Imagga](https://imagga.com/)**.
 
